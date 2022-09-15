@@ -3,6 +3,8 @@ Updated with the new LULC map cover by: Karra, Kontgis, et al. “Global land us
 
 only solar potential assessment one has been kept.
 
+<img src="figure.png" width="700"/>
+
 Check the PV watts calculator and modelling.
 
 Consider citation on original work: 
